@@ -33,7 +33,7 @@ while True:
             continue
 
         if choice == '1':
-            print(f"The result of {num1} + {num2} is {add(num1, num2)}")
+            print(f" whooo You got The result of {num1} + {num2} is {add(num1, num2)}")
 
         elif choice == '2':
             print(f"The result of {num1} - {num2} is {subtract(num1, num2)}")
