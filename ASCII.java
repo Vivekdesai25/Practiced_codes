@@ -14,3 +14,11 @@ public class Main {
      System.out.println("ASCII charector of given number is "+ASCII_no);
   }
 }
+
+/* 
+Above code in python
+a=int(input("en no  "))
+b=input("en char  ")
+print ("ascii char",chr(a))
+print("ascii no",ord(b))
+*/
