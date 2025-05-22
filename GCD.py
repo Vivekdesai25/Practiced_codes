@@ -12,8 +12,14 @@ import java.util.*;
 
 public class Main {
   public static int gcd(int a,int b){
+    if(a==0) return b;
     if(b==0) return a;
-    else return gcd(b,a%b);
+    while(b!=a)
+    {
+      if(a>b) return a=a-b;
+      else return b=b-a;
+    }
+    return a;
   }
     public static void main(String[] args) {
       int r = gcd(10,15);
@@ -21,4 +27,11 @@ public class Main {
      
   }
 }
+or 
+while (b != 0) {
+        int temp = b;
+        b = a % b;
+        a = temp;
+    }
+    return a;
 '''
