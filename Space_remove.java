@@ -1,6 +1,4 @@
-class UpperLowerCase {
 
-    public void display(String str) {
       /*
       
       str =" " + str;
@@ -14,8 +12,11 @@ class UpperLowerCase {
         }
     }
    ---------- or----------
-    while(sc.hasNext());
+    while(sc.hasNext()); in input scanner class
 */
+class UpperLowerCase {
+
+public void display(String str) {
 String[] words=str.trim().split("\\s+");
 for(String v : words)
 {
@@ -25,7 +26,7 @@ for(String v : words)
     
     public static void main(String[] args) {
       UpperLowerCase ob = new UpperLowerCase();
-      //ob.display("COMPuteR", 8);
+
       ob.display("   vivek      govind desai");
     }
 }
