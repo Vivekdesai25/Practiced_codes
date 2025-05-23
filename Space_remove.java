@@ -13,6 +13,8 @@ class UpperLowerCase {
             } 
         }
     }
+   ---------- or----------
+    while(sc.hasNext());
 */
 String[] words=str.trim().split("\\s+");
 for(String v : words)
