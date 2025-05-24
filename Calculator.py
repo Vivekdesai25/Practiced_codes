@@ -1,7 +1,7 @@
 # Simple Calculator with a Friendly Interface
 
-def add(x, z):
-    return x + z
+def add(j, i):
+    return j + i
 
 def subtract(x, y):
     return x - y
