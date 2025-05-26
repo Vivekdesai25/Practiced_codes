@@ -1,0 +1,8 @@
+n=6
+for i in range (0,n+1):
+  print(" "*(n-i),end="")
+  k=1
+  for j in range (0,i+1):
+    print(k," ",end="")
+    k=k*(i-j)//(j+1)
+  print()
