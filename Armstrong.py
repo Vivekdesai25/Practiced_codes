@@ -1,4 +1,4 @@
-n=int(input (" enter no "))
+n=int(input ("Enter no "))
 original=n
 pow=len(str(n))
 res=0
