@@ -1,5 +1,4 @@
 n=input("Enter binary no ")
-
 def bi(l):
     p=0
     d=0
