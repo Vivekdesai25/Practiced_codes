@@ -31,3 +31,30 @@ for(String v : words)
       ob.display("   vivek      govind desai");
     }
 }
+----------------last word print ---------
+      class UpperLowerCase {
+
+public void display(String str) {
+String[] words=str.trim().split("\\s+");
+for(String v : words)
+{
+  String lw=words[words.length-1];
+if (v==lw)
+ {
+   System.out.print(" "+v);
+  }
+else
+{
+char k=v.charAt(0);
+   System.out.print(Character.toUpperCase(k)+" ");
+}
+
+}
+}
+    
+    public static void main(String[] args) {
+      UpperLowerCase ob = new UpperLowerCase();
+
+      ob.display("   vivek      Govind Desai");
+    }
+}
