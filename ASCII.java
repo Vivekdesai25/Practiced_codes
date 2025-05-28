@@ -16,7 +16,7 @@ public class Main {
 }
 
 /* 
-Above code in python
+Above code in py
 a=int(input("en no  "))
 b=input("en char  ")
 print ("ascii char",chr(a))
