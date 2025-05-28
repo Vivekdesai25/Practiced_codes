@@ -10,5 +10,6 @@ for i in range (0,n+1):
 value = math.factorial(i) // (math.factorial(j) * math.factorial(i - j))  
 nCr
 print(value, end=" ")
+1 121 1331 14641 ...
 '''
         
