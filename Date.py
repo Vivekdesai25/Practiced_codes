@@ -10,7 +10,7 @@ weekday_name = now.strftime("%A")
 #%a for short name like dec,web
 month_name = now.strftime("%B")
 year_full = now.strftime("%Y")
-week_number = now.strftime("%W")
+week_number = now.strftime("%W") #full Wednesday 
 am_pm = now.strftime("%p")
 hour_12 = now.strftime("%I")
 hour_24 = now.strftime("%H")
