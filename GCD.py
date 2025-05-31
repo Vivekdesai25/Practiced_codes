@@ -25,7 +25,8 @@ public class Main {
     public static void main(String[] args) {
       int r = gcd(10,15);
       System.out.println("gcd is "+ " "+r);
-     
+
+    for 3 numbers gcd((gcd(a, b),c)
   }
 }
 ***********************************************
