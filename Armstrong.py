@@ -1,4 +1,4 @@
-n=int(input ("Enter no "))
+n=int(input ("Enter any random no "))
 original=n
 pow=len(str(n))
 res=0
