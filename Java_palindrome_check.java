@@ -8,7 +8,7 @@ class Main {
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner (System.in);
-        System.out.println("value ");
+        System.out.println("Enter any string or value ");
         String st=sc.nextLine();
         if(palindrome(st))
         {
