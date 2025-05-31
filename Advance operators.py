@@ -14,4 +14,4 @@ no_purple = 'purple' not in colors
 
 # Ternary operator
 marks = 75
-result = "Pass" if marks >= 35 else "Fail"
+result = " Yes its Pass" if marks >= 35 else "Fail"
