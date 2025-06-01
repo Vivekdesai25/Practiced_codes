@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-
+#date and time functions
 now = datetime.now()
 today = datetime.today().date()
 future_date = now + timedelta(days=7)
