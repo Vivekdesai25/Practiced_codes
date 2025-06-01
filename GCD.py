@@ -5,7 +5,7 @@ def gcd(a,b):
 a=int(input ("en 1st no "))
 b=int(input("en 2nd no "))
 r=gcd(a,b)
-print("GCD is ",r)
+print("GCD of two numbers is ",r)
 
 '''
 *******************************************
