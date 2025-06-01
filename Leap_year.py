@@ -3,6 +3,6 @@ def leap(a):
         return True
     else:
         return False
-a=int(input("enter an year "))
+a=int(input("Enter any year "))
 r=leap(a)
 print("leap year ? ",r)
