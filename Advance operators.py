@@ -1,7 +1,7 @@
 #ADVANCED OPERATORS
 
 #Identity operator 
-a_list = [10, 20]
+a_list = [110, 320]
 b_list = a_list
 same_ref = (a_list is b_list)
 new_list = [10, 20]
