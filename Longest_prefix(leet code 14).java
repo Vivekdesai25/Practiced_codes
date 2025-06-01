@@ -22,7 +22,7 @@ public class Long {
                 break;
             }
         }
-        return i==0 ?" \"\" " : ss.substring(0,i);
+        return i==0 ? "" : ss.substring(0,i);
     }
     public static void main(String[] args) {
         String str[]={"oiar","pcarb","ctarot"};
