@@ -10,6 +10,7 @@ for i in range (n,0,-1):
         print(chr(j+47),"",end="")
     print()
     ------
+   ASCII value
     a-97 
     A-65 Z-90
     0-48
