@@ -12,6 +12,7 @@
             } 
         }
     }
+    
    ---------- or----------
     while(sc.hasNext()); in input scanner class
 */
@@ -58,3 +59,4 @@ char k=v.charAt(0);
       ob.display("   vivek      Govind Desai");
     }
 }
+*/
