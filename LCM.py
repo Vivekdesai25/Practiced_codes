@@ -8,4 +8,4 @@ while True:
         break
     i+=1
 LCM=(n*n1)/math.gcd(n,n1)
-print(LCM)
+print("lCM of given numbers",LCM)
