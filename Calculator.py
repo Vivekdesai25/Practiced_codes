@@ -11,7 +11,7 @@ def multiply(x, y):
 
 def divide(x, r):
     if y == 0:
-        return "Error:oh Sorry ,Cannot divide by zero."
+        return "Error:Cannot divide by zero."
     return x / r
 
 print("Welcome to the Simple Calculator!")
