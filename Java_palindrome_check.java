@@ -10,7 +10,7 @@ class Main {
         Scanner sc=new Scanner (System.in);
         System.out.println("Enter any string or value ");
         String st=sc.nextLine();
-        if(palindrome(st))
+        if(palindrome(st)) //return true 
         {
             System.out.println("palindrome");
         }
