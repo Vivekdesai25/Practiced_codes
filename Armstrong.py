@@ -8,8 +8,7 @@ while n>0:
   n//=10
 print ("Armstrong" if res==original else "not Armstrong" )
 
-'''
-1 to 1000 armstrong no 
+''' 
 for i in range(1, 1000):
     if function (i):
         print(i)
