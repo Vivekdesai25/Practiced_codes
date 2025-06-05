@@ -6,11 +6,6 @@
 > If you're looking for production-ready magic... you're lost, my friend. 🚪🚶
 
 
-## 🎯 What is this?
-This is just a **practice repo** where I’m trying to teach my code how to behave like a student —  
-It can enroll, attend classes (aka `methods`), and sometimes... crash during exams (aka `exceptions`) 😵‍💫.
-
-
 ## 💡 Why does this exist?
 Because:
 - I need to practice Java 💻
