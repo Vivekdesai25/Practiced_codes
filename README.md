@@ -55,5 +55,3 @@ Instead, use it to:
 
 ## 👋 Final Words
 Stay curious. Keep coding. And don’t forget to semicolon your life properly. `;`
-
-Let me know if you want a dark mode version, or one personalized with your photo/meme/quote — I can remix this into any flavor you want 😄
