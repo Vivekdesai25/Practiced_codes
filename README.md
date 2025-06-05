@@ -24,6 +24,7 @@ Here, you’ll find:
 Yes.  
 Will it run correctly?  
 Uhh... that depends on your karma and Java version 😎
+
 When it finally compiles… but still throws 43 exceptions.
 
 ## ⚠️ Disclaimer
@@ -36,12 +37,6 @@ Every time I fix one bug...
 Two new ones spawn.  
 Coincidence?  
 **No. It’s Java.** 
-
-## 🔥 Live Demo
-Oh, you want a live demo?  
-Here you go:  
-![Boom](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
-
 
 ## 🙅‍♂️ Don't Copy. Just LOL.
 Please **don't copy-paste** this code for any real projects — your code will start skipping classes.  
