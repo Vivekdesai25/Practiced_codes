@@ -1,6 +1,7 @@
 # 🧪 Practiced Codes — Because Greatness Starts With Ugly Code 😅
 
-> Welcome to my **playground of bugs, fixes, and “oops that worked?” moments** 🤯 
+> Welcome to my **playground of bugs, fixes, and “oops that worked?” moments** 🤯
+ 
 > ⚠️ Warning: This repo contains dangerously basic Java and Python codes.  
 > If you're looking for production-ready magic... you're lost, my friend. 🚪🚶
 
