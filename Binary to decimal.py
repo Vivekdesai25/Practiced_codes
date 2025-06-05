@@ -1,3 +1,4 @@
+1 2 4 8 16 32 64 ,,,
 n=input("Enter binary no ")
 def bi(l):
     p=0
