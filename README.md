@@ -24,7 +24,6 @@ Here, you’ll find:
 Yes.  
 Will it run correctly?  
 Uhh... that depends on your karma and Java version 😎
-
 When it finally compiles… but still throws 43 exceptions.
 
 ## ⚠️ Disclaimer
