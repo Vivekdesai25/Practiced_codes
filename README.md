@@ -24,6 +24,7 @@ Here, you’ll find:
 Yes.  
 Will it run correctly?  
 Uhh... that depends on your karma and Java version 😎
+When it finally compiles… but still throws 43 exceptions.
 
 ## ⚠️ Disclaimer
 > 📢 **Don’t copy this code blindly!**  
@@ -55,16 +56,3 @@ Instead, use it to:
 
 ## 👋 Final Words
 Stay curious. Keep coding. And don’t forget to semicolon your life properly. `;`
-
----
-
-✅ You can now copy and paste this as your `README.md` file in your repo.
-
-Want to add a section where people can share feedback or improvements? Or want me to add Python/C++ versions too? I'm ready!
-
----
-
-✅ You can now copy and paste this as your `README.md` file in your repo.
-
-Want to add a section where people can share feedback or improvements? Or want me to add Python/C++ versions too? I'm ready!
-
