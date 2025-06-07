@@ -4,8 +4,9 @@ for i in range (0,n+1):
   k=1
   for j in range (0,i+1):
     print(k," ",end="")
-    k=k*(i-j)//(j+1) //important
+    k=k*(i-j)//(j+1)
     import math
+
 '''
 value = math.factorial(i) // (math.factorial(j) * math.factorial(i - j))  
 nCr or imort fact function
