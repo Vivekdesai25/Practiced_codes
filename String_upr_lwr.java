@@ -10,7 +10,6 @@ class UpperLowerCase {
             }
         }
     }
-
     public void display(String str,char chr){
         for(int i=0;i<str.length();i++){
             char ch = str.charAt(i);
@@ -20,7 +19,8 @@ class UpperLowerCase {
                     System.out.println(ch);
                 }
             }
-            else{
+            else
+            {
                 System.out.println(ch);
             }
         }
