@@ -17,7 +17,7 @@ x = 10
 x += 5
 y = 20
 y //= 3
-m *= 10
+m = 10 * m
 
 # Bitwise operators
 bit1 = 5 & 3
