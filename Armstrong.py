@@ -13,6 +13,6 @@ for i in range(1, 1000):
     if function (i):
         print(i)
         
-armstrong no 153,370,371,9474
+armstrong no 153,370,371,9474...
 ex 153 =1³+5³+3³
 '''
