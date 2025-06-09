@@ -19,6 +19,6 @@ public class Main {
 Above code in python 
 a=int(input("en no  "))
 b=input("en char  ")
-print ("enter ascii char",chr(a))
-print("enter ascii no",ord(b)) //ordinal 
+print ("entered no's ascii char",chr(a)) //charector 
+print("entered char's ascii no",ord(b)) //ordinal 
 */
