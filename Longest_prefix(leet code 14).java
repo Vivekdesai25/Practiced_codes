@@ -2,7 +2,7 @@ import java.util.*;
 public class Long {
     public static String Long(String str[])
     {
-        for(boolean s:str)//for empty string 
+        for(boolean s:str)///for empty string 
             {
                 if(str.length==a[0]) return "";
             }
