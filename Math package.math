@@ -13,7 +13,7 @@ round_val = round(d, 1)
 ceil_val = math.ceil(d)
 floor_val = math.floor(d)
 
-minimum = min(10, 20, 5,67.-23)
+minimum = min(10, 20, 5,-23)
 maximum = max(10, 20, 5)
 
 pi_val = math.pi
