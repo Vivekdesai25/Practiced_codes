@@ -7,5 +7,6 @@ while True:
         print ("LCM ",i)
         break
     i+=1
+#method 2
 LCM=(n*n1)/math.gcd(n,n1)
 print("lCM of given numbers",LCM)
