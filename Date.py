@@ -8,6 +8,7 @@ formatted_date = now.strftime("%Y-%m-%d %H:%M:%S")
 
 weekday_name = now.strftime("%A")
 #%a for short name like dec,web
+#%A ---> December, Wednesday 
 month_name = now.strftime("%B")
 year_full = now.strftime("%Y")
 week_number = now.strftime("%W") #full Wednesday 
