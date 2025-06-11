@@ -16,8 +16,8 @@ Here, you’ll find:
 - 🚧 Half-baked logic
 - 🧃 Overused loops
 - 🫣 Classes trying to be useful
-- And of course... plenty of semicolons doing their best `;`
-- Maybe more chaos to come...
+- 😁 And of course... plenty of semicolons doing their best `;`
+-😭 Maybe more chaos to come...
 
 
 ## 🧪 Will it run?
