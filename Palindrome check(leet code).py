@@ -4,12 +4,11 @@ def rev(n):
     while n>0:
         rem=n%10
         num=num*10+rem
-       #math.ceil(n/10)
+        #math.ceil(n/10)
         n=n//10
     return num
         
 n=int(input("en no"))
-#rev(n)
 if(n==rev(n)):
     print("wow ,its palindrome")
 else:
