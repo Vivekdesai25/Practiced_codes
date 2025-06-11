@@ -19,4 +19,4 @@ math.pow(x, y)	Power (like x ** y)
 math.factorial(n)	Factorial
 math.gcd(a, b)	Greatest common divisor
 math.lcm(a, b)	Least common multiple (Python 3.9+)
-temp f=1.8*c+32
+temp f=1.8*c+32 or  c=f-32/1.8
