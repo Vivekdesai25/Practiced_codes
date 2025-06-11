@@ -11,7 +11,7 @@ weekday_name = now.strftime("%A")
 #%A ---> December, Wednesday 
 month_name = now.strftime("%B")
 year_full = now.strftime("%Y")
-week_number = now.strftime("%W") #full Wednesday 
+week_number = now.strftime("%W") 
 am_pm = now.strftime("%p")
 hour_12 = now.strftime("%I")
 hour_24 = now.strftime("%H")
