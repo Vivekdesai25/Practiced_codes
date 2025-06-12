@@ -3,8 +3,8 @@
 def add(l, m):
     return l + m
 
-def subtract(x, y):
-    return x - y
+def subtract(a, b):
+    return a - b
 
 def multiply(x, y):
     return x * y
@@ -19,7 +19,7 @@ print("What would you like to do today?")
 print("1. Addition")
 print("2. Subtract")
 print("3. Multiply")
-print("4. Divide")
+print("4. Divide ")
 
 while True:
     choice = input("\nPlease enter your choice (1/2/3/4): ")
