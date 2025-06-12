@@ -19,7 +19,7 @@
 class UpperLowerCase {
 
 public void display(String str) {
-String[] words=str.trim().split("\\s+");
+String[] words=str.trim().split("\\s+");//more than 2 space 
 for(String v : words)
 {
   System.out.print(v.charAt(0));
