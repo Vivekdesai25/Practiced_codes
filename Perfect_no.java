@@ -1,9 +1,9 @@
 import java.util.*;
 class Pnumber{
     int a;
-    public Pnumber(int a)
+    public Pnumber(int c)
     {
-        this.a=a;
+        this.c=a;
     }
     public int cal()
     {
