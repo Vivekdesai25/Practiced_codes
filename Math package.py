@@ -1,7 +1,7 @@
 import math
 a = 7
 b = 3
-c = -5
+c = -5.0
 d = 2.97
 
 
