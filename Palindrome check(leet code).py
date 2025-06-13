@@ -12,5 +12,5 @@ n=int(input("en no"))
 if(n==rev(n)):
     print("wow ,its palindrome")
 else:
-    print('its, not palindrome')
+    print('Oh its not palindrome')
     
