@@ -8,7 +8,7 @@
 
 ## 💡 Why does this exist?
 Because:
-- I need to practice Java 💻
+- I need to practice python and Java 💻
 - I like pressing `Ctrl + S` for no reason 😅
 - And mostly because Stack Overflow said so 👨‍🏫
 
