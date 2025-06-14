@@ -32,11 +32,11 @@ class Vivek
         if(r&& r2 && Math.abs(num-num2)==4)
         //(num-num2==4 || num2-num ==-4))
         {
-            System.out.println("Enter no is prime ");
+            System.out.println("Entered number is prime ");
         }
         else
         {
-            System.out.println("Enter no is not prime ");
+            System.out.println("Entered no is not prime ");
         }
         
     }
