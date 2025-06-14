@@ -8,7 +8,7 @@ r=gcd(a,b)
 print("GCD of 2 numbers is",r)
 
 '''
-*******************************************
+****************************************
 import java.util.*;
 
 public class Main {
