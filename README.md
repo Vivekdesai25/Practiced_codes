@@ -17,7 +17,7 @@ Here, you’ll find:
 - 🧃 Overused loops
 - 🫣 Classes trying to be useful
 - 😁 And of course... plenty of semicolons doing their best `;`
--😭 Maybe more chaos to come...
+- 😭 Maybe more chaos to come...
 
 
 ## 🧪 Will it run?
