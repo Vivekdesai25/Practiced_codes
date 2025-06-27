@@ -10,7 +10,6 @@ print("GCD of 2 numbers is",r)
 '''
 ****************************************
 import java.util.*;
-
 public class Main {
   public static int gcd(int a,int b){
     if(a==0) return b;
@@ -37,5 +36,5 @@ while (b != 0) {
         a = temp;
     }
     return a;
------------------------------------------------------
+----------------------------------------------
 '''
