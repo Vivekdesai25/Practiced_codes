@@ -1,11 +1,11 @@
 #ADVANCED OPERATORS
-
 #Identity operator 
 a_list = [110, 320]
 b_list = a_list
 same_ref = (a_list is b_list) //true
 new_list = [10, 20]
 not_same = (a_list is not new_list)
+
 
 # Membership operators
 colors = ['red', 'green', 'blue']
