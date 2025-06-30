@@ -6,7 +6,6 @@ for i in range (0,n+1):
     print(k," ",end="")
     k=k*(i-j)//(j+1)
     
-
 '''
 import math
 value = math.factorial(i) // (math.factorial(j) * math.factorial(i - j))  
