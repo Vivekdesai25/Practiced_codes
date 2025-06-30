@@ -11,4 +11,4 @@ print(reversed_each_word)    # Output: keviv iased
 print(reversed_word_order)   # Output: desai vivek
 print(fully_reversed)        # Output: iased keviv
 
-word[::-1]   -> "".join(reversed(word)
+word[::-1]   --- replace --> "".join(reversed(word)
