@@ -1,4 +1,4 @@
-import math 
+import math
 a=float(input("en value a "))
 b=float (input("en value b "))
 c=float(input("en value c "))
