@@ -3,7 +3,7 @@ class Box {
     double height;
     double length;
     
-    Box() {
+    Box() { //constructor 
         length = width = height = 0;
     }
 
