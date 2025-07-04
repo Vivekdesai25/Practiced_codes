@@ -12,7 +12,7 @@ check1 = (5 > 2 and 3 < 4)
 check2 = (5 < 1 or 6 == 6)
 chesk3=(5 !=6 )
 
-# Assignment operators
+# Assignment operator
 x = 10
 x += 5
 y = 20
