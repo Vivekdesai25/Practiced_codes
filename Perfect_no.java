@@ -1,4 +1,5 @@
 import java.util.*;
+import java.lang.*;
 class Pnumber{
     int a;
     public Pnumber(int c)
