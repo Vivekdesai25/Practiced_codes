@@ -1,6 +1,6 @@
 # Arithmetic operators
 a = 7 + 5
-c=10/2
+c=10/2  //gives Quotient
 b = 10 % 3
 
 # Comparison Operators
