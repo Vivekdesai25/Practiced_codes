@@ -11,6 +11,7 @@ def bi(n):
 k=bi(num)
 print (k)
 print ()
+
 #inbuilt functions
 print ("binary inbuilt fun ",bin(num)[2:])
 print ("formate inbuilt fun ",format(num,'b'))
