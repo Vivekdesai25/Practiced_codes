@@ -14,5 +14,5 @@ for i in range (n,0,-1):
     a-97 
     A-65 Z-90
     0-48
-total  0 to 127
+total unicodes  0 to 127
     ----
