@@ -26,16 +26,14 @@ Here, you’ll find:
 > You can peek, get inspired, or roast it 🔥
 
 ## 😂 Fun Fact
-Every time I fix one bug...
+> Every time I fix one bug...  
+> Two new ones spawn.  
+> Coincidence?  
+> **No. It’s legacy code.**  
+>  
+> 🧠 **1st Law of Coding:**  
+> *If it worked, don’t touch it.*
 
-Two new ones spawn.
-
-Coincidence?
-
-**No. It’s legacy code**.
-
-🧠 1st Law of Coding:
-If it worked, don’t touch it.
 
 ## 🙅‍♂️ Don't Copy. Just LOL.
 Please **don't copy-paste** this code for any real projects — your code will start skipping classes.  
