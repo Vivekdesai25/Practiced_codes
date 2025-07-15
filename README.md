@@ -27,8 +27,11 @@ Here, you’ll find:
 
 ## 😂 Fun Fact
 Every time I fix one bug...
+
 Two new ones spawn.
+
 Coincidence?
+
 **No. It’s legacy code**.
 
 🧠 1st Law of Coding:
