@@ -26,11 +26,11 @@ Here, you’ll find:
 > You can peek, get inspired, or roast it 🔥
 
 ## 😂 Fun Fact
-- Every time I fix one bug...  
-- Two new ones spawn.
-- Coincidence?  
-- **No. It’s legacy code.**  
-  
+> Every time I fix one bug...  
+> Two new ones spawn.  
+> Coincidence?  
+> **No. It’s legacy code.**
+> 
 > 🧠 **1st Law of Coding:**  
 > *If it worked, don’t touch it.*
 
