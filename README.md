@@ -20,22 +20,19 @@ Here, you’ll find:
 - 😭 Maybe more chaos to come...
 
 
-## 🧪 Will it run?
-Yes.  
-Will it run correctly?  
-Uhh... that depends on your karma and Java version 😎
-When it finally compiles… but still throws 43 exceptions.
-
 ## ⚠️ Disclaimer
 > 📢 **Don’t copy this code blindly!**  
 > It’s here so I can laugh at it later, and maybe learn something in the process.  
 > You can peek, get inspired, or roast it 🔥
 
 ## 😂 Fun Fact
-Every time I fix one bug...  
-Two new ones spawn.  
-Coincidence?  
-**No. It’s Java.** 
+Every time I fix one bug...
+Two new ones spawn.
+Coincidence?
+**No. It’s legacy code**.
+
+🧠 1st Law of Coding:
+If it worked, don’t touch it.
 
 ## 🙅‍♂️ Don't Copy. Just LOL.
 Please **don't copy-paste** this code for any real projects — your code will start skipping classes.  
