@@ -5,7 +5,6 @@ fruits.sort()  # In-place sorting
 print("After sort():", fruits)      # Output: ['apple', 'banana', 'cherry']
 //sort is for list only
 
-
 # Using sorted() - returns a new sorted list
 vegetables = ["carrot", "beetroot", "asparagus"]
 new_list = sorted(vegetables)  # Creates a new sorted list
