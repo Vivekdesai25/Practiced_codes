@@ -6,6 +6,5 @@ def fibonacci(n):
         return n
     return fibonacci(n - 1) + fibonacci(n - 2)
 
-# Try it out
 for i in range(20):
     print(f"fibonacci({i}) = {fibonacci(i)}")
