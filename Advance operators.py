@@ -6,7 +6,6 @@ same_ref = (a_list is b_list) //true
 new_list = [10, 20]
 not_same = (a_list is not new_list)
 
-
 # Membership operators
 colors = ['red', 'green', 'blue']
 has_red = 'red' in colors
