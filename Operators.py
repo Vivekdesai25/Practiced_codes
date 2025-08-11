@@ -2,7 +2,6 @@
 a = 7 + 5
 c=10/2  //gives Quotient
 b = 10 % 3
-
 # Comparison Operators
 is_equal = (4 == 4)
 is_greater = (9 > 5)
