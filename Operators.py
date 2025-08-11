@@ -5,7 +5,6 @@ b = 10 % 3
 # Comparison Operators
 is_equal = (4 == 4)
 is_greater = (9 > 5)
-
 # Logical Operators
 check1 = (5 > 2 and 3 < 4)
 check2 = (5 < 1 or 6 == 6)
