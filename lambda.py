@@ -1,6 +1,6 @@
 # A simple lambda function to add two numbers
 add = lambda x, y: x + y
-print(f"Lambda sum: {add(5, 7)}")
+print(f"Lambda sum of Two numbers {add(5, 7)}")
 
 # Lambda used with sorted() to sort a list of tuples by the second element
 students = [('Alice', 25), ('Bob', 20), ('Charlie', 30)]
