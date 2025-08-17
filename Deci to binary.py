@@ -1,5 +1,6 @@
 num=int(input("Enter decimal no "))
 
+
 def bi(n):
   bi="" #empty string 
   if n==0:
