@@ -1,4 +1,4 @@
-num=int(input("Enter decimal no "))
+num=int(input("Please Enter decimal no "))
 
 
 def bi(n):
