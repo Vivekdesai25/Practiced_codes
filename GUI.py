@@ -1,5 +1,4 @@
 import tkinter as tk
-
 def say_hello():
     label.config(text="Hello, Tkinter!")
 
