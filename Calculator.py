@@ -12,7 +12,6 @@ def divide(x, r):
     if y == 0:
         return "Error:Cannot divide by zero."
     return x / r
-
 print("Welcome to the Simple Calculator!")
 print("What would you like to do today?")
 print("1. Addition")
