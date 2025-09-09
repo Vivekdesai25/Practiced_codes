@@ -1,5 +1,4 @@
 # Simple Calculator with a Friendly Interface
-
 def add(l, m):
     return l + m
 
