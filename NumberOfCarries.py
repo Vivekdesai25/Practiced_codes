@@ -7,7 +7,6 @@ def cary(n1,n2):
     a= n1 %10
     b= n2 %10
     c=a+b+carry
-
     if c>9:
       x+=1
       carry=1
