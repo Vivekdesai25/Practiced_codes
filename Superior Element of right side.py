@@ -1,3 +1,7 @@
+# A superior element in an array is one that is greater than all elements to its right.
+# The rightmost element is always superior.
+
+
 n=int(input("enter no of elements\n"))
 a=[]
 
